@@ -34,3 +34,14 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# workspace files
+.agent/
+.env
+AGENT_PROMPT.md
+BUILD_PLAYBOOK.md
+SAMPLE_TRANSCRIPT.md
+SCHEMA.sql
+SPEC_BASKET_REVIEW.md
+TOOL_CONTRACTS.md
+WORKING_FLOW.md
